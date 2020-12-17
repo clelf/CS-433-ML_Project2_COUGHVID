@@ -1,6 +1,6 @@
 README/Project2/Machine_Learning,CS-433
 
-In the .zip folder, someone will find : 
+One will find : 
 
 
 Helpers fonctions files:
@@ -22,6 +22,5 @@ Exploratory Data Analysis notebook :
 -P2- EDA.ipynb
 
 
-
-
+To reproduce best accuracy prediction, run XGBoost_Bayesian_Optimization.ipynb
 
